@@ -12,8 +12,8 @@ public class StudentListProject {
      */
     public static void main(String[] args) {
         
-        System.out.println("my name is arshpal singh");
-        System.out.println("  helooo! arsh!");
+        System.out.println("my name is zindabad bro");
+        System.out.println("  helooo! kuku paji!");
     }
 
 }
